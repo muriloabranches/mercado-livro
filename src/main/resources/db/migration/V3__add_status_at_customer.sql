@@ -1,1 +1,2 @@
-ALTER TABLE customer ADD COLUMN status varchar(100);
+ALTER TABLE customers
+    ADD COLUMN status varchar(100);
