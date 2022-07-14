@@ -15,3 +15,7 @@ spring:
   mvc:
     pathmatch:
       matching-strategy: ant_path_matcher
+
+jwt:
+  secret: 91bc427d-8f8d-4a61-9b6d-f0bd6e98f4f3
+  expiration: 999999
